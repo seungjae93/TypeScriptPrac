@@ -1,7 +1,7 @@
 //타입스크립트는 변수, 매개변수, 리턴값에 타입 붙이는 것!!
 //추론이 잘되면 맡기자!
-const a: string = "5";
-const b = 5;
+// const a: string = "5";
+// const b = 5;
 const c: boolean = true;
 const d: undefined = undefined;
 const e: null = null;
